@@ -1,5 +1,5 @@
 # ♟ ChessWithFriends ♟
-This is my CS246 Final Project, which involved developing a chess application with heavy emphasis on <b>Object-Oriented Programming</b> concepts and design/software architectural patterns.
+This is my Object-Oriented programming course's Final Project, which involved developing a chess application with heavy emphasis on <b>Object-Oriented Programming</b> concepts and design/software architectural patterns.
 I received a 96% overall.
 
 ## Summary
