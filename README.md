@@ -1,7 +1,4 @@
 # ♟ ChessWithFriends ♟
-This is my Object-Oriented programming course's Final Project, which involved developing a chess application with heavy emphasis on <b>Object-Oriented Programming</b> concepts and design/software architectural patterns.
-I received a 96% overall.
-
 ## Summary
 Per project requirements and some bonuses, this program has implemented the following:
 - Player .vs. Player game mode 
